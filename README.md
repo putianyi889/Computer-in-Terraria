@@ -1,6 +1,6 @@
 # Computer-in-Terraria
 The goal of this project is to design a computer in Terraria.
 
-All the circuits in pictures are in the wld file.
+All current achievements are show in pictures, the circuits of which are in the wld file.
 
-There is no explanation for them. Feel free to ask if you have any question.
+Feel free to ask if you have any question. This helps us to add essential information to the repository.
